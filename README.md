@@ -1,4 +1,4 @@
-🌿 Krishi Carbon
+## 🌿 Krishi Carbon
 Smart Climate Farming Ecosystem
 
 Tagline:
