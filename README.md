@@ -20,6 +20,7 @@ The platform integrates agricultural intelligence, weather forecasting, carbon t
 - Krishi Carbon solves these challenges using AI, satellite data, and smart analytics
 
 ###🚀 Key Features
+
 🌱 Soil Fertility Analysis
 - Soil Health Score (0–100)
 - NPK deficiency detection
@@ -140,7 +141,3 @@ Krishi Carbon is a:
 
 📄 License
 This project is built for educational, research, and innovation purposes.
-
-Offline mode for rural areas
-
-Mobile application launch
