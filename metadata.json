@@ -1,0 +1,5 @@
+{
+  "name": "Krishi Carbon",
+  "description": "Smart Climate Agriculture Platform for soil fertility analysis, rainfall prediction, crop recommendation, and carbon credit tracking.",
+  "requestFramePermissions": ["geolocation"]
+}
