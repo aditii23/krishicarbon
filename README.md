@@ -17,7 +17,7 @@ The platform integrates agricultural intelligence, weather forecasting, carbon t
 - Limited data-driven decision tools
 - Lack of access to carbon credit markets
 - Poor visibility of market price trends
-- Krishi Carbon solves these challenges using AI, satellite data, and smart analytics.
+- Krishi Carbon solves these challenges using AI, satellite data, and smart analytics
 
 ###🚀 Key Features
 🌱 Soil Fertility Analysis
